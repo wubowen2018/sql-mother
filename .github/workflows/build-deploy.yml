@@ -29,5 +29,5 @@ jobs:
         with:
           github_token: ${{ secrets.SQL_SECRET }}
           publish_dir: ./build
-          publish_branch: gh-pages
+          publish_branch: master
           
