@@ -29,4 +29,4 @@ jobs:
         with:
           github_token: ${{ secrets.SQL_SECRET }}
           publish_dir: ./build
-          publish_branch: master
+          publish_branch: pages
